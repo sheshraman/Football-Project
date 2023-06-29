@@ -1,0 +1,867 @@
+pred_value,name,position,compatible_position,club
+85.77,Lionel Messi,forward,RW,Paris Saint-Germain
+87.46,Karim Benzema,forward,CF,Real Madrid CF
+86.89,Robert Lewandowski,forward,ST,FC Barcelona
+86.04,Kevin De Bruyne,midfield,CM,Manchester City
+87.29,Kylian Mbappé,forward,ST,Paris Saint-Germain
+86.66,Mohamed Salah,forward,RW,Liverpool
+80.63,Thibaut Courtois,goalkeeper,GK,Real Madrid CF
+77.09,Manuel Neuer,goalkeeper,GK,FC Bayern München
+86.24,C. Ronaldo dos Santos Aveiro,forward,SUB,Manchester United
+84.48,Virgil van Dijk,defender,CB,Liverpool
+85.66,Harry Kane,forward,ST,Tottenham Hotspur
+86.14,Neymar da Silva Santos Jr.,forward,LW,Paris Saint-Germain
+86.23,Heung Min Son,midfield,LW,Tottenham Hotspur
+83.49,Carlos Henrique Venancio Casimiro,midfield,SUB,Manchester United
+78.5,Jan Oblak,goalkeeper,GK,Atlético de Madrid
+85.37,Sadio Mané,forward,ST,FC Bayern München
+77.17,Ederson Santana de Moraes,goalkeeper,GK,Manchester City
+80.8,Joshua Kimmich,midfield,CDM,FC Bayern München
+75.34,Alisson Ramses Becker,goalkeeper,GK,Liverpool
+81.01,N'Golo Kanté,midfield,CM,Chelsea
+81.93,Rúben Santos Gato Alves Dias,defender,CB,Manchester City
+84.34,Erling Haaland,forward,ST,Manchester City
+79.41,Gianluigi Donnarumma,goalkeeper,GK,Paris Saint-Germain
+82.79,Bernardo Mota Carvalho e Silva,forward,RW,Manchester City
+82.62,João Pedro Cavaco Cancelo,defender,LB,Manchester City
+82.37,Marcos Aoás Corrêa,defender,CB,Paris Saint-Germain
+79.8,Keylor Navas,goalkeeper,SUB,Paris Saint-Germain
+76.86,Marc-André ter Stegen,goalkeeper,GK,FC Barcelona
+81.59,Toni Kroos,midfield,CM,Real Madrid CF
+83.58,Luka Modrić,midfield,CM,Real Madrid CF
+81.72,Antonio Rüdiger,defender,CB,Real Madrid CF
+80.63,Rodrigo Hernández Cascante,forward,CDM,Manchester City
+82.68,Fábio Henrique Tavares,midfield,CDM,Liverpool
+78.24,Hugo Lloris,goalkeeper,GK,Tottenham Hotspur
+83.75,Thomas Müller,midfield,CAM,FC Bayern München
+79.47,David De Gea Quintana,goalkeeper,GK,Manchester United
+80.82,Marco Verratti,midfield,CM,Paris Saint-Germain
+77.27,Mike Maignan,goalkeeper,GK,AC Milan
+83.15,Trent Alexander-Arnold,defender,RB,Liverpool
+80.88,Andrew Robertson,defender,LB,Liverpool
+78.8,Kalidou Koulibaly,defender,CB,Chelsea
+84.12,Leon Goretzka,midfield,CDM,FC Bayern München
+84.09,Frenkie de Jong,midfield,CM,FC Barcelona
+80.51,Thiago Alcântara,midfield,CM,Liverpool
+84.03,Ciro Immobile,forward,ST,Lazio
+83.19,Romelu Lukaku,forward,ST,Inter
+83.56,David Alaba,defender,CB,Real Madrid CF
+82.76,Raheem Sterling,forward,ST,Chelsea
+84.44,Riyad Mahrez,forward,SUB,Manchester City
+83.1,Paulo Dybala,forward,RF,Roma
+81.39,Thiago Emiliano da Silva,defender,CB,Chelsea
+80.09,Wojciech Szczęsny,midfield,RES,Juventus
+77.77,Kevin Trapp,goalkeeper,GK,Eintracht Frankfurt
+83.83,Bruno Miguel Borges Fernandes,midfield,CAM,Manchester United
+82.02,Daniel Parejo Muñoz,midfield,CM,Villarreal CF
+82.39,Aymeric Laporte,defender,CB,Manchester City
+82.33,Kingsley Coman,midfield,RM,FC Bayern München
+81.61,Marcelo Brozović,midfield,CDM,Inter
+82.36,Nicolò Barella,midfield,CM,Inter
+82.74,Lautaro Martínez,forward,ST,Inter
+82.37,Milan Škriniar,defender,CB,Inter
+84,Christopher Nkunku,midfield,CAM,RB Leipzig
+74.08,Édouard Mendy,goalkeeper,GK,Chelsea
+82.39,Vinícius José de Oliveira Júnior,forward,LW,Real Madrid CF
+82.02,Sergej Milinković-Savić,midfield,CM,Lazio
+78.74,Niklas Süle,midfield,SUB,Borussia Dortmund
+82.83,Nabil Fekir,midfield,CAM,Real Betis Balompié
+82.3,Serge Gnabry,forward,SUB,FC Bayern München
+82.93,İlkay Gündoğan,midfield,CM,Manchester City
+82.16,Kyle Walker,defender,RB,Manchester City
+82.99,Pierre-Emerick Aubameyang,forward,SUB,Chelsea
+80.72,Jordi Alba Ramos,defender,LB,FC Barcelona
+79.02,Sergio Busquets Burgos,midfield,CDM,FC Barcelona
+83.86,Iago Aspas Juncal,forward,ST,RC Celta de Vigo
+80.71,Paul Pogba,midfield,SUB,Juventus
+84.33,Memphis Depay,forward,SUB,FC Barcelona
+81.48,Luiz Frello Filho Jorge,midfield,CM,Chelsea
+81.94,Marcos Acuña,defender,LB,Sevilla FC
+84.23,Gerard Moreno Balagueró,forward,ST,Villarreal CF
+82.51,Yannick Carrasco,midfield,LM,Atlético de Madrid
+81.91,Filip Kostić,forward,LW,Juventus
+82.14,Jamie Vardy,forward,ST,Leicester City
+81.8,Pedro González López,midfield,CM,FC Barcelona
+81.98,Phil Foden,forward,LW,Manchester City
+82.41,Matthijs de Ligt,defender,CB,FC Bayern München
+82.8,Patrik Schick,forward,ST,Bayer 04 Leverkusen
+81.91,Theo Hernández,defender,LB,AC Milan
+83.9,Diogo José Teixeira da Silva,defender,SUB,Liverpool
+79.37,Péter Gulácsi,goalkeeper,GK,RB Leipzig
+78.52,Yann Sommer,goalkeeper,GK,Borussia Mönchengladbach
+83.19,Marco Reus,midfield,CAM,Borussia Dortmund
+81.43,Lucas Hernández,midfield,SUB,FC Bayern München
+80.62,Sergio Ramos García,defender,CB,Paris Saint-Germain
+81.69,Alejandro Gómez,forward,LW,Sevilla FC
+78.59,Samir Handanovič,goalkeeper,GK,Inter
+80.56,Dries Mertens,forward,CF,Galatasaray SK
+81.41,Luis Suárez,forward,ST,Club Nacional de Football
+83.2,Dušan Tadić,forward,RW,Ajax
+82.05,Domenico Berardi,forward,SUB,U.S. Sassuolo Calcio
+79.33,Thomas Partey,midfield,CDM,Arsenal
+75.36,Yassine Bounou,goalkeeper,GK,Sevilla FC
+81.74,Hakan Çalhanoğlu,midfield,CM,Inter
+80.58,Mateo Kovačić,midfield,SUB,Chelsea
+80.49,Jack Grealish,midfield,SUB,Manchester City
+80.03,Daniel Carvajal Ramos,defender,RB,Real Madrid CF
+81.34,Stefan Savić,defender,CB,Atlético de Madrid
+77.79,Emiliano Martínez,goalkeeper,GK,Aston Villa
+80.75,Raphaël Varane,defender,CB,Manchester United
+83.86,Wissam Ben Yedder,forward,ST,AS Monaco
+80.16,Lorenzo Insigne,forward,LW,Toronto FC
+81.63,Mats Hummels,defender,CB,Borussia Dortmund
+80.97,Stefan de Vrij,defender,CB,Inter
+80.22,Joel Matip,defender,CB,Liverpool
+78.99,Koen Casteels,goalkeeper,GK,VfL Wolfsburg
+81.25,Sergio Canales Madrazo,midfield,RM,Real Betis Balompié
+80.87,Iker Muniain Goñi,midfield,CAM,Athletic Club de Bilbao
+80.89,Kieran Trippier,defender,RB,Newcastle United
+80.65,Leonardo Bonucci,defender,CB,Juventus
+82.95,Ángel Di María,forward,RW,Juventus
+82.63,Eden Hazard,midfield,SUB,Real Madrid CF
+81.74,Ivan Perišić,midfield,SUB,Tottenham Hotspur
+81.17,Edin Džeko,defender,SUB,Inter
+80.45,Giorgio Chiellini,defender,CB,Los Angeles FC
+81.93,Rodrigo Javier De Paul,midfield,CM,Atlético de Madrid
+81.63,Jude Bellingham,midfield,CDM,Borussia Dortmund
+81.33,Federico Chiesa,midfield,SUB,Juventus
+79.3,Moussa Diaby,midfield,RM,Bayer 04 Leverkusen
+84.69,Jamie Tartt,forward,ST,AFC Richmond
+82.35,Rafael da Conceição Leão,forward,LW,AC Milan
+80.37,Jules Koundé,defender,RB,FC Barcelona
+82.76,Youri Tielemans,midfield,CM,Leicester City
+81.98,Sandro Tonali,midfield,CM,AC Milan
+83.12,Luis Díaz,forward,LW,Liverpool
+83,Éder Gabriel Militão,midfield,SUB,Real Madrid CF
+81.47,Federico Valverde,midfield,SUB,Real Madrid CF
+83.42,Leroy Sané,midfield,LM,FC Bayern München
+81.09,Reece James,defender,RWB,Chelsea
+81.6,Alessandro Bastoni,defender,CB,Inter
+82.66,Kai Havertz,forward,LW,Chelsea
+84.97,João Félix Sequeira,forward,ST,Atlético de Madrid
+81.86,Achraf Hakimi,defender,RWB,Paris Saint-Germain
+81.41,Alphonso Davies,defender,LB,FC Bayern München
+81.67,Declan Rice,midfield,CDM,West Ham United
+83.59,Mason Mount,forward,RW,Chelsea
+82.63,Jadon Sancho,midfield,LM,Manchester United
+80.31,Fikayo Tomori,defender,CB,AC Milan
+81.03,Franck Yannick Kessié,defender,SUB,FC Barcelona
+82.27,Mikel Oyarzabal Ugarte,midfield,SUB,Real Sociedad
+83.91,Lorenzo Pellegrini,midfield,CM,Roma
+81.58,Wilfred Ndidi,midfield,CDM,Leicester City
+81.81,Marcos Llorente Moreno,defender,SUB,Atlético de Madrid
+81.86,Martin Ødegaard,midfield,CAM,Arsenal
+82.89,Dušan Vlahović,forward,ST,Juventus
+80.03,Diego Carlos Santos Silva,midfield,SUB,Aston Villa
+80.99,José Ángel Esmoris Tasende,defender,LWB,TSG Hoffenheim
+82.29,Ousmane Dembélé,forward,RW,FC Barcelona
+81.84,Marco Asensio Willemsen,midfield,SUB,Real Madrid CF
+80.25,Rúben Diogo da Silva Neves,midfield,CDM,Wolverhampton Wanderers
+82.48,Mikel Merino Zazón,midfield,CM,Real Sociedad
+80.39,Konrad Laimer,midfield,SUB,RB Leipzig
+82.16,Presnel Kimpembe,midfield,RES,Paris Saint-Germain
+80.26,Fabián Ruiz Peña,midfield,SUB,Paris Saint-Germain
+80.11,Ferland Mendy,defender,LB,Real Madrid CF
+83.65,Ronaldo Jailson Cabrais Petri,midfield,RM,Palmeiras
+82.82,Gabriel Fernando de Jesus,forward,ST,Arsenal
+78.53,Unai Simón Mendibil,goalkeeper,GK,Athletic Club de Bilbao
+82.98,Victor Osimhen,midfield,SUB,Napoli
+79.83,Pierre-Emile Højbjerg,midfield,CM,Tottenham Hotspur
+81.55,Cristian Romero,defender,CB,Tottenham Hotspur
+82.13,Raphael Dias Belloli,midfield,SUB,FC Barcelona
+81.8,Carlos Soler Barragán,midfield,SUB,Paris Saint-Germain
+75.54,Gregor Kobel,goalkeeper,GK,Borussia Dortmund
+81.2,Pau Francisco Torres,defender,CB,Villarreal CF
+83.1,Cody Gakpo,forward,LW,PSV
+81.37,Ronald Araujo,defender,CB,FC Barcelona
+78.81,Roy Kent,midfield,CM,AFC Richmond
+81.66,Duván Zapata,midfield,SUB,Atalanta
+81.46,Ángel Correa,midfield,SUB,Atlético de Madrid
+81.69,José María Giménez,midfield,SUB,Atlético de Madrid
+82.44,Thomas Lemar,midfield,SUB,Atlético de Madrid
+80.95,Gleison Bremer Silva Nascimento,defender,CB,Juventus
+80.25,Juan Cuadrado,defender,RB,Juventus
+80.88,Piotr Zieliński,midfield,CM,Napoli
+78.54,Jesús Navas González,defender,RB,Sevilla FC
+78.9,Gerard Piqué Bernabeu,midfield,SUB,FC Barcelona
+77.38,Kasper Schmeichel,goalkeeper,GK,OGC Nice
+81.59,Jordan Henderson,midfield,SUB,Liverpool
+80.77,Fernando Reges Mouta,midfield,CDM,Sevilla FC
+77.35,Lukáš Hrádecký,goalkeeper,GK,Bayer 04 Leverkusen
+81.46,David Josué Jiménez Silva,midfield,CAM,Real Sociedad
+78.32,Oliver Baumann,goalkeeper,GK,TSG Hoffenheim
+82.95,Antoine Griezmann,midfield,SUB,Atlético de Madrid
+79.69,Luis Alberto Romero Alconchel,midfield,CM,Lazio
+81.91,Roberto Firmino Barbosa de Oliveira,midfield,SUB,Liverpool
+81.6,John Stones,midfield,SUB,Manchester City
+80.97,Hakim Ziyech,midfield,SUB,Chelsea
+81.21,Jorge Resurrección,midfield,CM,Atlético de Madrid
+80.77,Ricardo Barbosa Pereira,midfield,SUB,Leicester City
+80.7,James Maddison,midfield,RM,Leicester City
+76.97,Gerónimo Rulli,goalkeeper,GK,Villarreal CF
+81.22,Andrej Kramarić,forward,ST,TSG Hoffenheim
+80.07,Rafael A. Ferreira Silva,forward,CF,SL Benfica
+79.44,Giovanni Di Lorenzo,defender,RB,Napoli
+77.12,David Soria Solís,goalkeeper,GK,Getafe CF
+80.76,Manuel Locatelli,midfield,CM,Juventus
+80.23,Robin Gosens,midfield,LM,Inter
+81.84,Gonçalo Manuel Ganchinho Guedes,forward,LW,Wolverhampton Wanderers
+78.75,Jonathan Tah,defender,CB,Bayer 04 Leverkusen
+78.85,Andreas Christensen,midfield,SUB,FC Barcelona
+80.08,Emre Can,midfield,SUB,Borussia Dortmund
+81.75,Anderson Souza Conceição,forward,CF,Al Nassr
+81.58,Julian Brandt,midfield,SUB,Borussia Dortmund
+81.82,Timo Werner,forward,ST,RB Leipzig
+79.54,José Luís Gayà Peña,defender,LB,Valencia CF
+80.09,Otávio Edmilson da Silva Monteiro,midfield,RM,FC Porto
+80.29,Alejandro Grimaldo García,defender,LB,SL Benfica
+79.88,Raphaël Guerreiro,defender,LB,Borussia Dortmund
+76.77,André Onana,midfield,SUB,Inter
+80,Matthias Ginter,defender,CB,Sport-Club Freiburg
+78.36,Sébastien Haller,midfield,RES,Borussia Dortmund
+78.98,Aritz Elustondo,midfield,SUB,Real Sociedad
+81.87,Tammy Abraham,forward,ST,Roma
+80.79,Ismaël Bennacer,midfield,CM,AC Milan
+77.76,Alejandro Remiro Gargallo,goalkeeper,GK,Real Sociedad
+82.53,Dani Rojas,forward,ST,AFC Richmond
+80.9,Florian Wirtz,midfield,RES,Bayer 04 Leverkusen
+80.05,Antony Matheus dos Santos,midfield,RM,Manchester United
+83.19,Darwin Núñez,forward,ST,Liverpool
+80.2,Nico Schlotterbeck,defender,CB,Borussia Dortmund
+80.34,Bukayo Saka,midfield,RM,Arsenal
+82.1,Daniel Olmo Carvajal,midfield,SUB,RB Leipzig
+82,Aurélien Tchouaméni,midfield,CDM,Real Madrid CF
+83.48,Ferran Torres García,midfield,SUB,FC Barcelona
+79.62,Noussair Mazraoui,midfield,SUB,FC Bayern München
+80.1,Arnaut Danjuma,midfield,SUB,Villarreal CF
+76.84,Aaron Ramsdale,goalkeeper,GK,Arsenal
+82.26,Lucas Tolentino Coelho de Lima,midfield,SUB,West Ham United
+78.93,Denzel Dumfries,midfield,RM,Inter
+81.51,Ruslan Malinovskyi,forward,ST,Atalanta
+80.77,Raúl Jiménez,forward,ST,Wolverhampton Wanderers
+80.55,Josué Durval Chiamulera Vaz,defender,CB,Club Athletico Paranaense
+74.26,Lucas Luciano Mantela Patrício,goalkeeper,GK,Palmeiras
+79.98,Ben Chilwell,midfield,SUB,Chelsea
+81.82,André Miguel Valente da Silva,midfield,SUB,RB Leipzig
+79.88,Christian Pulisic,midfield,SUB,Chelsea
+77.17,Jordan Pickford,goalkeeper,GK,Everton
+79.89,Sergi Darder Moll,midfield,CM,RCD Espanyol de Barcelona
+79.83,Willi Orban,defender,CB,RB Leipzig
+78.58,Idrissa Gueye,forward,SUB,Everton
+77.97,Zlatan Ibrahimović,forward,SUB,AC Milan
+80.09,Iñigo Martínez Berridi,forward,SUB,Athletic Club de Bilbao
+77.84,Łukasz Fabiański,goalkeeper,GK,West Ham United
+78.6,Ivan Rakitić,midfield,CM,Sevilla FC
+81.05,Dimitri Payet,forward,LF,Olympique de Marseille
+77.75,Rui Pedro dos Santos Patrício,goalkeeper,GK,Roma
+78.08,Olivier Giroud,forward,ST,AC Milan
+81.08,Simon Kjær,forward,SUB,AC Milan
+79.54,Yuri Berchiche Izeta,forward,SUB,Athletic Club de Bilbao
+80.9,Toby Alderweireld,defender,CB,Royal Antwerp FC
+81.34,Marko Arnautović,forward,ST,Bologna
+81.23,César Azpilicueta Tanco,defender,CB,Chelsea
+79.71,Philippe Coutinho Correia,forward,LW,Aston Villa
+80.26,Christian Eriksen,midfield,CDM,Manchester United
+77.28,Raúl Albiol Tortajada,defender,CB,Villarreal CF
+76.57,Adrien Rabiot,defender,CB,Sporting CP
+78.87,Rui Tiago Dantas da Silva,goalkeeper,GK,Real Betis Balompié
+79.23,Alessio Romagnoli,defender,CB,Lazio
+80.13,Carles Gil Pareja,midfield,CAM,New England Revolution
+79.64,Anthony Martial,forward,SUB,Manchester United
+74.78,Moussa Dembélé,forward,SUB,Olympique Lyonnais
+78.03,Mark Flekken,goalkeeper,GK,Sport-Club Freiburg
+81.07,Alex Nicolao Telles,forward,SUB,Sevilla FC
+76.95,Amine Gouiri,forward,ST,Stade Rennais FC
+76.21,Nemanja Maksimović,midfield,CDM,Getafe CF
+78,Unai Núñez Gestoso,defender,CB,RC Celta de Vigo
+77.66,Orkun Kökçü,midfield,CM,Feyenoord
+77,Anthony Nwakaeme,midfield,LM,Al Fayha
+76.11,Luis Milla Manzanares,forward,SUB,Getafe CF
+78.41,Tyrell Malacia,defender,LB,Manchester United
+77.7,Jonathan David,forward,ST,LOSC Lille
+78.73,Conor Gallagher,defender,SUB,Chelsea
+76.41,Alexis Sánchez,forward,ST,Olympique de Marseille
+78.55,Pervis Estupiñán,defender,SUB,Brighton & Hove Albion
+77.53,Juan Foyth,defender,RB,Villarreal CF
+79.78,Min Jae Kim,defender,CB,Napoli
+77.94,Dominik Szoboszlai,midfield,CAM,RB Leipzig
+75.62,David Neres Campos,midfield,RM,SL Benfica
+76.39,Angelo Ogbonna,defender,SUB,West Ham United
+77.61,Jérôme Boateng,defender,SUB,Olympique Lyonnais
+79.13,Youssouf Fofana,midfield,CM,AS Monaco
+73.36,Lars Stindl,midfield,CAM,Borussia Mönchengladbach
+75.19,Luís Manuel Arantes Maximiano,defender,SUB,Lazio
+78.46,Diego López Rodríguez,forward,SUB,Rayo Vallecano
+78.75,Ryan Gravenberch,forward,SUB,FC Bayern München
+78.46,Anssumane Fati,forward,LW,FC Barcelona
+75.07,Pedro Rodríguez Ledesma,defender,SUB,Lazio
+76.9,George Goodman,defender,LB,AFC Richmond
+77.39,Moe Bumbercatch,midfield,CM,AFC Richmond
+76.2,Pablo Martín Páez Gavira,defender,SUB,FC Barcelona
+77.13,Yeremy Jesús Pino Santos,midfield,RM,Villarreal CF
+77.39,Gonçalo Bernardo Inácio,defender,CB,Sporting CP
+79.23,Vítor Machado Ferreira,midfield,CM,Paris Saint-Germain
+77.62,Matheus Luiz Nunes,midfield,CM,Wolverhampton Wanderers
+78.07,Giacomo Raspadori,forward,SUB,Napoli
+76.15,Samuel Chukwueze,forward,SUB,Villarreal CF
+77.29,Ali Musrati,midfield,CDM,SC Braga
+78.74,Norberto Gomes Betuncal,forward,ST,Udinese Calcio
+80.56,Wesley Fofana,defender,SUB,Chelsea
+78.08,Eduardo Camavinga,defender,SUB,Real Madrid CF
+76.04,Martín Zubimendi Ibáñez,midfield,CM,Real Sociedad
+75.98,Roger Ibañez Da Silva,defender,CB,Roma
+78.7,Maxence Caqueret,midfield,CM,Olympique Lyonnais
+76.87,Boulaye Dia,forward,ST,US Salernitana 1919
+76.01,Manuel Lanzini,defender,SUB,West Ham United
+76.57,Vicente Guaita Panadero,goalkeeper,GK,Crystal Palace
+79.81,Alfredo Talavera,defender,-,Free agent
+76.64,Rodrigo Bentancur,midfield,CM,Tottenham Hotspur
+78.15,Gonzalo Montiel,forward,SUB,Sevilla FC
+77.61,Ludovic Blas,forward,RW,FC Nantes
+78.51,Matheus Reis de Lima,defender,LWB,Sporting CP
+73.1,Luan Vágner Boas Macedo,forward,ST,Santos
+76.57,Bernard Gabriel Prestão Chaves,goalkeeper,GK,Internacional
+76.73,Melvin Luan Parrela Porfírio,midfield,CM,RB Bragantino
+75.59,Jan Kuchta,midfield,CDM,Fluminense
+74.87,Fábio Daniel Ferreira Vieira,defender,RB,Internacional
+74.38,Noni Madueke,midfield,CAM,Clube Atlético Mineiro
+71.12,Manuel Ugarte,goalkeeper,GK,RB Bragantino
+65.06,Zouhair Feddal,forward,ST,CA Osasuna
+74.53,Marko Livaja,defender,LB,Arsenal
+74.13,Giovanni Reyna,defender,CB,Aston Villa
+67.76,Jordan Teze,goalkeeper,GK,Boca Juniors
+74.19,Yussuf Poulsen,defender,SUB,Tottenham Hotspur
+74.25,Wenderson Nascimento Galeno,defender,RB,Aston Villa
+66.95,Benoît Badiashile,defender,RB,FC Bayern München
+73.5,Musa Barrow,midfield,LM,West Ham United
+74.45,Patson Daka,defender,SUB,Paris Saint-Germain
+69.31,Lutsharel Geertruida,midfield,RM,OGC Nice
+68.52,Andoni Gorosabel Espinosa,forward,LW,AS Monaco
+66.53,Oliver Skipp,defender,CB,CA Osasuna
+68.1,Mathías Olivera,midfield,CDM,1. FC Köln
+74.8,Davide Frattesi,defender,LB,Lazio
+72.97,Matteo Pessina,forward,ST,Beşiktaş JK
+73.32,Eduardo Gabriel Aquino Cossa,goalkeeper,GK,Montpellier Hérault SC
+67.12,Eric García Martret,forward,CDM,Borussia Mönchengladbach
+64.83,Dan-Axel Zagadou,forward,SUB,Manchester United
+62.76,Merih Demiral,midfield,LM,Borussia Dortmund
+73.48,Valentin Castellanos,defender,SUB,Sevilla FC
+73.61,Jorge de Frutos Sebastián,defender,RB,Arsenal
+67.04,Maxence Lacroix,goalkeeper,GK,Feyenoord
+72.09,Deniz Undav,goalkeeper,GK,Stade Rennais FC
+73.63,Ademola Lookman,defender,CB,Leicester City
+73.53,Mykola Shaparenko,forward,SUB,Real Betis Balompié
+63.09,Mohammed Salisu,midfield,CM,Brøndby IF
+70.26,Jordan Ferri,midfield,CAM,Rayo Vallecano
+68.34,Willian Souza Arão da Silva,defender,CB,Atlético de Madrid
+74.01,Hugo Duro Perales,forward,ST,LA Galaxy
+69.54,Alessandro L. Baia Marques,goalkeeper,GK,Real Valladolid CF
+73.81,Moussa Marega,forward,ST,Borussia Dortmund
+63.33,Rob Holding,goalkeeper,GK,Galatasaray SK
+69.94,Benjamin Henrichs,goalkeeper,GK,Parma
+73.57,Kasper Dolberg,defender,SUB,Ajax
+59.38,Robert Lynch Sánchez,defender,CB,Atlético de Madrid
+72.37,Rade Krunić,midfield,CM,RC Celta de Vigo
+65.11,Axel Disasi,defender,SUB,Olympique de Marseille
+65.75,César Montes,forward,SUB,SL Benfica
+73.24,Suat Serdar,forward,SUB,Napoli
+70.34,Enzo Leandro Chissano Baia,midfield,CDM,Borussia Dortmund
+73.27,Angelo Fulgini,defender,RB,Lazio
+73.14,Claudio Nuno Coíntra Calegari,defender,SUB,Olympique Lyonnais
+71.4,Wagner Mauro Laranjo Coelho,forward,SUB,VfL Wolfsburg
+72.95,Andeson Jaime Trigo Gonçalves,goalkeeper,GK,FC Porto
+66.5,Jadson José Meireles Correia,midfield,CAM,Minnesota United FC
+67.14,Rodrigo Éder Vuarte Ruiz,defender,CB,Sevilla FC
+69.75,Victorio Martin Maia Padilha Jabim,goalkeeper,GK,Nottingham Forest
+62.91,Danilo Manuel Vieira Espíndola,defender,SUB,Arsenal
+72.05,Murildo Kauê Cadete Teixeira,forward,ST,Fiorentina
+70.16,Sidney Adrián Pessoa Vidigal,goalkeeper,GK,Olympique de Marseille
+73.88,Gelson Dany Batalha Martins,midfield,CDM,RC Celta de Vigo
+62.39,Vitor Hugo Franchescoli Souza,forward,ST,PSV
+72.54,Petros Mantalos,forward,ST,Fenerbahçe SK
+74.07,Jérémie Boga,defender,SUB,Bayer 04 Leverkusen
+72.88,Anastasios Bakasetas,defender,CB,Everton
+67.5,Romain Saïss,defender,SUB,Sevilla FC
+72.46,Adrien Thomasson,defender,SUB,SL Benfica
+74.34,Hany Mukhtar,defender,CB,Everton
+69.04,Fabian Schär,forward,RW,Lazio
+72.59,Salem Al Dawsari,midfield,CM,Olympique de Marseille
+68.55,Kevin Mbabu,defender,LB,LOSC Lille
+63.71,Paulo André Rodrigues Oliveira,goalkeeper,GK,RC Celta de Vigo
+72.07,Emerson Palmieri dos Santos,defender,CB,Brighton & Hove Albion
+72.88,Marius Wolf,goalkeeper,GK,RC Strasbourg Alsace
+72.82,Hee Chan Hwang,midfield,CDM,Arsenal
+73.85,Gaetano Castrovilli,goalkeeper,GK,VfL Bochum 1848
+57.31,Jean Butez,midfield,CM,Galatasaray SK
+73.94,Habib Diallo,forward,LW,Lazio
+74.05,İrfan Can Kahveci,goalkeeper,GK,Juventus
+67.51,Abdou Diallo,midfield,LM,Real Betis Balompié
+73.08,Kelechi Iheanacho,midfield,CAM,Seattle Sounders FC
+74.29,Stephy Mavididi,forward,ST,Newcastle United
+66.99,Ben Godfrey,defender,CB,Adana Demirspor
+69.36,Olivier Boscagli,forward,SUB,Aston Villa
+60.83,Illan Meslier,defender,SUB,Sevilla FC
+72.95,Odsonne Edouard,defender,SUB,FC Barcelona
+68.07,Gabriel Jairo Aníbal Rangel,defender,SUB,Athletic Club de Bilbao
+72.36,Simão Alvin Acunha Bardini,defender,SUB,Roma
+63.27,Timo Hübers,goalkeeper,GK,Udinese Calcio
+70.52,Joakim Mæhle,forward,ST,West Ham United
+72.7,João Pedro Neves Filipe,midfield,CDM,LOSC Lille
+63.66,Florentino Morris Luís,defender,SUB,Ajax
+73.51,Evander da Silva Ferreira,forward,SUB,AC Milan
+71.55,Roland Sallai,midfield,SUB,FC Barcelona
+70.88,Yangel Herrera,midfield,SUB,Juventus
+72.87,Akram Afif,midfield,SUB,Getafe CF
+68.48,Nuno Miguel Jerónimo Sequeira,forward,ST,RC Strasbourg Alsace
+73.82,Riccardo Orsolini,defender,CB,Getafe CF
+70.4,Jorge Sánchez,forward,SUB,Atalanta
+72.53,Tarik Tissoudali,midfield,CAM,Columbus Crew
+72.84,Rodrigo Aliendro,goalkeeper,GK,River Plate
+68.72,Tyler Adams,defender,SUB,Wolverhampton Wanderers
+72.77,Shoya Nakajima,midfield,LM,SL Benfica
+72.5,Fernando Zampedri,forward,RW,Toronto FC
+71.77,Marko Grujić,forward,ST,KRC Genk
+73.21,Yusuf Yazıcı,midfield,CM,Wuhan Three Towns
+71.23,Thomas Henry,defender,SUB,CA Osasuna
+69.44,James Justin,defender,CB,Olympique de Marseille
+71.9,Romain Perraud,midfield,CM,Aston Villa
+66.04,Trevoh Chalobah,midfield,RB,Wolverhampton Wanderers
+69.98,Adilson Patrick Edrada Pereira,forward,RW,Beşiktaş JK
+71.33,Alejandro Silva,defender,SUB,Club Brugge KV
+59.05,Florian Müller,forward,SUB,Sevilla FC
+65.09,Wesley Hoedt,forward,SUB,Atalanta
+72.34,Frank Fabra,forward,SUB,Everton
+64.79,Diego Javier Llorente Ríos,goalkeeper,GK,SC Braga
+73.13,Sebastián Palacios,midfield,SUB,Everton
+66.35,Daniel Amartey,midfield,LM,Brighton & Hove Albion
+73.9,Frank Acheampong,defender,SUB,Villarreal CF
+73.07,Divock Origi,defender,CB,Tottenham Hotspur
+71.77,Antonio José Rodríguez Díaz,defender,CB,Lecce
+71.84,Ruben Loftus-Cheek,midfield,SUB,RC Celta de Vigo
+72.45,Abderrazak Hamdallah,forward,RW,Sevilla FC
+73.01,Federico Di Francesco,forward,SUB,Real Betis Balompié
+70.11,Thiago Henrique Mendes Ribeiro,forward,ST,Sport Club Corinthians Paulista
+60.76,Helton Brant Aleixo Leite,goalkeeper,GK,Fenerbahçe SK
+65.59,Gustavo Cuéllar,midfield,RM,RCD Espanyol de Barcelona
+67.58,Iván Marcone,midfield,LM,OGC Nice
+68.99,Léo Dubois,midfield,SUB,SL Benfica
+69.41,Lucas Romero,defender,CB,OGC Nice
+64.78,Leonardo Sigali,midfield,SUB,Manchester City
+72.43,Fabrizio Angileri,midfield,CM,SL Benfica
+57.5,Lorenzo Montipò,defender,LB,Cádiz CF
+72.48,Serhou Guirassy,defender,RWB,Tottenham Hotspur
+72.36,Ayoze Pérez Gutiérrez,midfield,CDM,SK Slavia Praha
+72.29,Robert Kenedy Nunes do Nascimento,midfield,SUB,AC Milan
+71.5,Andrea Petagna,midfield,LM,Arsenal
+67.16,Youssouf Sabaly,midfield,CM,PSV
+71.79,Álvaro García Rivera,defender,CB,AC Milan
+72.09,Maximilian Philipp,defender,LB,Bayer 04 Leverkusen
+73.08,Alexander Sørloth,forward,ST,FC Porto
+65.1,Luan Peres Petroni,goalkeeper,GK,Valencia CF
+72,Vanderson de Oliveira Campos,midfield,LM,AFC Richmond
+72.26,Christian Fassnacht,defender,RB,AFC Richmond
+64.06,Germán Sánchez Barahona,midfield,SUB,AFC Richmond
+57.32,Marco Bizot,midfield,SUB,RB Leipzig
+71.2,Magomed Ozdoev,defender,LWB,VfB Stuttgart
+64.94,Erik Sviatchenko,goalkeeper,GK,SV Werder Bremen
+71.04,Alejandro Fernández Iglesias,defender,SUB,AC Milan
+63.4,Domagoj Vida,defender,SUB,Granada CF
+71.75,Ross Barkley,forward,ST,Eintracht Frankfurt
+71.84,Daniel Rodríguez Vázquez,defender,CDM,RB Leipzig
+62.21,Dedryck Boyata,forward,RW,Wolverhampton Wanderers
+71.49,Naïm Sliti,forward,ST,Trabzonspor
+71.06,Aaron Mooy,forward,ST,Club Brugge KV
+72.12,Andros Townsend,defender,SUB,Wolverhampton Wanderers
+72.29,Haris Seferović,goalkeeper,GK,Empoli
+72.04,Xherdan Shaqiri,midfield,CM,River Plate
+73.57,Martin Braithwaite,midfield,LM,Bayer 04 Leverkusen
+68.91,Jaume Vicent Costa Jordá,defender,SUB,U.S. Sassuolo Calcio
+66.98,Maxime Gonalons,goalkeeper,RW,AC Milan
+72.35,Mark Uth,forward,RF,Torino F.C.
+60.95,Juan Guilherme Nunes Jesus,defender,CB,Crystal Palace
+72.48,Jeffrey Schlupp,defender,SUB,Napoli
+70.44,Djibril Sidibé,goalkeeper,GK,RCD Mallorca
+63.81,Koray Günter,defender,CB,VfB Stuttgart
+61.41,Luís Carlos Novo Neto,midfield,CM,TSG Hoffenheim
+71.17,Xavier Mercier,midfield,CM,Olympique Lyonnais
+57.45,Hendrik Van Crombrugge,defender,CB,Olympique de Marseille
+70.69,Roque Mesa Quevedo,defender,CB,AS Monaco
+72.62,Tonny Vilhena,forward,ST,Napoli
+72.45,Mohamed Elyounoussi,defender,SUB,Sporting CP
+62.63,Robin Knoche,midfield,CDM,Shakhtar Donetsk
+70.18,Grégoire Defrel,midfield,LM,Getafe CF
+72.56,Jérôme Roussillon,defender,SUB,Paris Saint-Germain
+72.17,Stuart Armstrong,defender,LB,Napoli
+71.2,Jasmin Kurtić,forward,ST,Seattle Sounders FC
+58.06,Ciprian Tătărușanu,midfield,RES,West Ham United
+72.02,Rasmus Falk,defender,SUB,Real Betis Balompié
+72.44,Riccardo Saponara,midfield,CM,Udinese Calcio
+68.79,Kevin Vogt,defender,SUB,Watford
+73.08,Chris Wood,forward,SUB,Club Brugge KV
+69.59,Javier Pastore,goalkeeper,GK,FC Basel 1893
+72.42,Óscar Romero,defender,CB,Brentford
+63.13,Jan Bednarek,defender,LB,West Ham United
+72.06,Harry Wilson,midfield,CM,Fiorentina
+70.94,Érick Gutiérrez,forward,ST,U.C. Sampdoria
+58.12,David Raya Martin,forward,ST,Al Hilal
+64.03,Sverrir Ingi Ingason,defender,RES,İstanbul Başakşehir FK
+72.06,Luciano Acosta,defender,SUB,Real Betis Balompié
+71.89,Jae Sung Lee,forward,SUB,Boca Juniors
+71.57,Alfredo Morelos,midfield,LM,Borussia Mönchengladbach
+59.76,Jindřich Staněk,forward,ST,Leeds United
+70.56,Harry Winks,midfield,CAM,Nottingham Forest
+63.71,Timo Baumgartl,goalkeeper,GK,Rayo Vallecano
+74.22,Sheraldo Becker,defender,SUB,West Ham United
+60.82,Paul Bernardoni,forward,ST,Fulham
+72.05,Henry Martín,midfield,SUB,Eintracht Frankfurt
+71.11,Sofyan Amrabat,defender,SUB,Austin FC
+67.85,Diego Rico Salguero,defender,SUB,Torino F.C.
+71.59,David Brooks,defender,SUB,Brentford
+72.29,Sebastián Blanco,defender,RB,SL Benfica
+64.68,Joseba Zaldúa Bengoetxea,goalkeeper,GK,Fiorentina
+56.98,Łukasz Skorupski,defender,SUB,CA Osasuna
+64.88,Julian Baumgartlinger,forward,SUB,Atlanta United
+63.44,Aridane Hernández Umpiérrez,forward,SUB,RB Leipzig
+62.13,Liam Cooper,defender,SUB,River Plate
+69.95,Ashley Westwood,midfield,SUB,Unión Deportiva Almería
+71.42,Bas Dost,forward,ST,Al Ittihad
+72.56,Ante Budimir,forward,SUB,Manchester City
+70.51,Mauricio Isla,forward,SUB,Sevilla FC
+71.77,Aaron Ramsey,defender,LB,1. FC Köln
+71.98,Gaël Kakuta,defender,CB,Brighton & Hove Albion
+71.76,Patrick van Aanholt,defender,SUB,Juventus
+68.8,Gonzalo Escalante,forward,SUB,AFC Bournemouth
+71.32,Birger Meling,defender,SUB,Liverpool
+69.36,Baptiste Santamaria,defender,RES,Nottingham Forest
+73.21,Miguel Borja,midfield,CDM,River Plate
+72.08,Luis Advíncula,defender,RB,Rangers FC
+57.27,Pietro Terracciano,midfield,RM,Hellas Verona
+73.91,Lucas Robertone,defender,SUB,Real Betis Balompié
+73.02,Andreas Skov Olsen,defender,RWB,RCD Mallorca
+63.86,Pascal Struijk,forward,ST,Aston Villa
+63.53,Gerzino Nyamsi,defender,RB,Leicester City
+73.96,Szymon Żurkowski,midfield,LM,RC Celta de Vigo
+67.87,Nicolò Casale,forward,ST,Getafe CF
+69.76,Boubakary Soumaré,goalkeeper,GK,Racing Club
+72.87,Alexis Mac Allister,goalkeeper,GK,Club Nacional de Football
+73.35,Aaron Boupendza,midfield,CM,Olympique de Marseille
+65.18,Omar Alderete,goalkeeper,GK,AS Monaco
+73.28,Leonardo Carrilho Baptistão,goalkeeper,GK,CA Osasuna
+69.71,Ander Guevara Lajo,midfield,CDM,U.S. Sassuolo Calcio
+72.85,Roman Yaremchuk,forward,LW,Olympique Lyonnais
+72.07,Martín Ojeda,defender,LB,Borussia Mönchengladbach
+70.73,Leander Dendoncker,goalkeeper,GK,Napoli
+65.97,David Jefferson Seijalbo Vaz,defender,SUB,Southampton
+72.22,Rubem Thomas Esteiro Branco,midfield,CDM,Al Shabab
+71.13,Nicolás Evandro Filheiro Stein,midfield,SUB,Inter
+71.59,Óscar Rodríguez Arnaiz,defender,SUB,Aston Villa
+74.86,Emmanuel Dennis,goalkeeper,GK,F.C. København
+73.1,Chidera Ejuke,midfield,CAM,Austin FC
+60.66,Florin Niță,defender,SUB,Eintracht Frankfurt
+72.05,Carlos Rodríguez,midfield,CAM,West Ham United
+72.58,Marcelino Moreno,defender,SUB,SL Benfica
+69.63,Ghislain Konan,midfield,CAM,Inter Miami CF
+72.84,Eberechi Eze,midfield,CM,Al Hilal
+69.04,Marc Roca Junqué,forward,ST,AC Monza
+72.12,Esequiel Barco,midfield,SUB,Nottingham Forest
+73.76,Jean-Philippe Mateta,midfield,CM,Antalyaspor
+64.03,Robin Koch,defender,RB,Borussia Dortmund
+64.08,Facundo Medina,defender,CB,Boca Juniors
+72.86,Justin Kluivert,defender,SUB,Villarreal CF
+69.27,Keidi Bare,midfield,CDM,Eintracht Frankfurt
+71.52,Enis Bardhi,goalkeeper,GK,FC Twente
+70.37,Arne Maier,midfield,CM,Levante Unión Deportiva
+71.23,Nedim Bajrami,defender,CB,Feyenoord
+71.22,Nicolás Domínguez,defender,SUB,Leicester City
+57.68,Pierre Tomás Torres De Faria,midfield,CDM,Girona FC
+57.38,Nelson Arturo Reis Lopes,forward,ST,Cádiz CF
+63.33,Fred Marcos Aníbal Dias,defender,SUB,Nottingham Forest
+72.35,Mahmoud Hassan,defender,SUB,Inter
+63.36,Reece Oxford,midfield,CB,FC Nantes
+63.77,Eric Bailly,defender,SUB,Wolverhampton Wanderers
+73.47,Nadiem Amiri,forward,RW,Newcastle United
+72.9,Jonathan Bamba,defender,CB,Sport-Club Freiburg
+57.45,Ivan Provedel,midfield,CAM,AC Milan
+72.66,Orbelín Pineda,defender,SUB,Bayer 04 Leverkusen
+74,Emmanuel Boateng,forward,LW,AZ Alkmaar
+73.23,Ryan Kent,midfield,SUB,SL Benfica
+69.32,Zeki Çelik,midfield,SUB,Leicester City
+56.72,Sergio Rico González,defender,LWB,AS Monaco
+71.8,Moisés Gómez Bordonado,midfield,CM,VfB Stuttgart
+65.1,Yunis Abdelhamid,forward,RW,Stade de Reims
+72.47,Miroslav Stevanović,midfield,RM,Atlético de Madrid
+69.47,Sanjin Prcić,defender,CB,Real Sociedad
+67.62,Mattia De Sciglio,defender,SUB,Real Madrid CF
+72.44,Pere Milla Peña,midfield,LM,Atlanta United
+72.57,Ché Adams,defender,RB,Manchester United
+60.94,Antonaldo David Machado Chagas,midfield,SUB,Fiorentina
+65.05,Thilo Kehrer,forward,SUB,OGC Nice
+65.29,Lúcio Anselmo Corteijo Salazar,forward,ST,Sporting CP
+67.76,Silas Enaldo Barros de Almeida,forward,-,Free agent
+58.34,Andrey Lunev,forward,LW,Flamengo
+71.44,Rubén Alcaraz Jiménez,forward,SUB,Tottenham Hotspur
+65,Rafael Jiménez Jarque,forward,ST,Palmeiras
+73.15,Vangelis Pavlidis,forward,SUB,Olympique de Marseille
+72.93,Levi García,defender,RES,Aston Villa
+72.41,Mattias Svanberg,defender,SUB,Sporting CP
+71.76,Oussama Idrissi,defender,RB,Southampton
+67.04,Lucas Martínez Quarta,forward,ST,Borussia Mönchengladbach
+70.66,Grischa Prömel,defender,LB,Villarreal CF
+72.49,Matheus Fellipe Costa Pereira,defender,SUB,Ajax
+71.2,Jeremiah St. Juste,goalkeeper,GK,U.C. Sampdoria
+64.86,Rubén Duarte Sánchez,midfield,CM,AC Monza
+72.76,Gonzalo Martínez,defender,CB,RC Celta de Vigo
+65.5,Walker Zimmerman,midfield,CM,Flamengo
+71.34,Mauro Boselli,forward,ST,VfL Wolfsburg
+70.89,Yannick Gerhardt,defender,LB,Internacional
+73.52,Michael Olise,defender,LB,Flamengo
+72.94,Oihan Sancet Tirapu,defender,CB,Internacional
+72.57,Francisco Mota Castro Trincão,defender,CB,Flamengo
+73.17,Mohammed Kudus,defender,RB,RB Bragantino
+73.97,Luis Javier Suárez,midfield,LM,São Paulo
+73.61,Thiago Almada,forward,RW,Flamengo
+70.09,Óscar Gil Regaño,defender,CB,OGC Nice
+71.35,Riccardo Sottil,defender,CB,Aston Villa
+72.5,Manor Solomon,midfield,CDM,Borussia Mönchengladbach
+68.3,Carlos Neva Tey,forward,LF,Al Ittihad
+65.55,Edgar González Estrada,defender,SUB,Gil Vicente FC
+73.03,Khvicha Kvaratskhelia,midfield,CM,Hellas Verona
+73.27,Mateus Tetê,midfield,CDM,Stade Rennais FC
+71.35,Thierry Rendall Correia,defender,SUB,Villarreal CF
+65.52,Vitaliy Mykolenko,defender,CB,River Plate
+65.5,Daniel Vivian Moreno,defender,CB,Real Sporting de Gijón
+69.87,Lukáš Kalvach,forward,ST,Boca Juniors
+72.59,Kodjo Fo-Doh Laba,forward,-,Free agent
+72.11,Shon Weissman,defender,CB,Sevilla FC
+66.28,Zaidu Sanusi,defender,SUB,Fenerbahçe SK
+65.77,David Mota Teixeira Carmo,defender,SUB,Borussia Mönchengladbach
+73.57,Brian Brobbey,forward,SUB,Getafe CF
+74.95,Tommaso Pobega,defender,RWB,TSG Hoffenheim
+70.13,Ladislav Krejčí,defender,SUB,Napoli
+70.79,Wilfried Singo,forward,RES,FC Augsburg
+71.82,Hicham Boudaoui,defender,SUB,Stade Rennais FC
+65.48,Attila Szalai,defender,CB,Girona FC
+71.65,Carlos Vinícius Alves Morais,defender,SUB,Tottenham Hotspur
+71.57,Maryan Faryna,forward,ST,Galatasaray SK
+72.5,Kyle Jameson,goalkeeper,GK,RCD Espanyol de Barcelona
+56.76,Raghid Al Najjar,defender,SUB,Los Angeles FC
+56.3,Mohammed Al Qunayan,midfield,LM,Unión Deportiva Las Palmas
+56.8,Matt Bersano,defender,CB,FC Nantes
+58.36,Lucien Hawryluk,defender,RES,Liverpool
+55.14,James Furlong,defender,SUB,Galatasaray SK
+57.12,Shaka Mawuli Eklu,defender,RB,Adana Demirspor
+56.97,Sang Min Yang,forward,SUB,Leeds United
+59.48,Quentin Galvez-Diarra,midfield,SUB,Newcastle United
+55.9,Archie Goodwin,forward,SUB,Aston Villa
+57.9,Ricardo Bettocchi,midfield,SUB,AZ Alkmaar
+56.24,Luca Menke,forward,ST,Brentford
+54.03,Raynier Fernandes,defender,CB,RC Strasbourg Alsace
+57.92,Flavio Alcedo,forward,SUB,Fulham
+55.38,Bastián Pino,midfield,LM,Leeds United
+58.52,Stanley Flaherty,midfield,SUB,Fulham
+54.88,Arlind Dakaj,forward,SUB,Liverpool
+57.11,Gilles Richard,midfield,RM,Rayo Vallecano
+57.88,Cristóbal Finch,midfield,RM,Sport-Club Freiburg
+56.43,Stefano Marino,midfield,-,Free agent
+55.24,Wout De Buyser,midfield,SUB,Arsenal
+56.68,Jordan Courtney-Perkins,defender,RB,Leeds United
+57.16,Jakub Szymański,defender,SUB,Boca Juniors
+60.37,Sebastian Selin,defender,CB,Wuhan FC
+56.7,Henry Atola,midfield,CM,Beşiktaş JK
+56.23,Wiktor Pleśnierowicz,defender,LB,FC Augsburg
+56.38,Mirza Cihan,midfield,SUB,Middlesbrough
+58.7,José Mijares,defender,CB,Getafe CF
+53.67,Al-Amin Kazeem,defender,CB,Leicester City
+56.43,Frank Nouble,forward,ST,Watford
+54.94,Pascal Richter,midfield,CM,Real Sociedad
+57.22,Fernando Ruiz Díaz,midfield,CDM,US Salernitana 1919
+57.54,Jonathan Capuz,midfield,CM,Torino F.C.
+57.08,Gene Kennedy,forward,ST,Wuhan Three Towns
+57.24,Hayrullah Erkip,midfield,CDM,Celtic
+56.21,Presley Pululu,midfield,CM,Beşiktaş JK
+57.48,William Osula,defender,RES,Fenerbahçe SK
+54.94,Ben Hompesch,midfield,LM,Angers SCO
+56.71,Jaheim Headley,midfield,LM,Hellas Verona
+57.65,Cameron Cook,defender,LB,PSV
+53.11,Ricky Lallawmawma,defender,CB,Rayo Vallecano
+56.08,Gustavo Peralta,goalkeeper,GK,FC Augsburg
+55.74,Ben House,defender,RB,RC Celta de Vigo
+55.77,Huachen Zhang,forward,ST,Fortuna Sittard
+56.8,Radosław Cielemęcki,defender,RB,River Plate
+56.92,Douglas Tharme,defender,RWB,1. FSV Mainz 05
+57.89,Nils De Mol,defender,SUB,Athletic Club de Bilbao
+55.01,George Acosta,defender,SUB,TSG Hoffenheim
+57.28,Noel Eichinger,defender,LB,VfL Bochum 1848
+53.96,Landry Nomel,forward,ST,Everton
+57.89,Jacob Eng,forward,LW,Everton
+56.6,Kelvin Ehibhatiomhan,goalkeeper,GK,PAOK
+55.28,Walid Nassi,defender,LB,Stade Brestois 29
+56.61,Elliot Thorpe,defender,SUB,Dinamo Zagreb
+57.35,Jin Beom An,defender,-,Borussia Mönchengladbach
+53.67,Fabian Tauchhammer,defender,RES,Elche CF
+54.42,Ayrton Paz,midfield,LM,AS Monaco
+54.08,Abdullah Al Yousif,forward,LW,Borussia Mönchengladbach
+57.86,Yuanjie Su,midfield,LM,Real Madrid CF
+58.91,Tianyi Qiu,forward,LW,AS Monaco
+55.01,Jin Seong Park,defender,CB,Borussia Mönchengladbach
+57.7,Jannik Zahmel,defender,SUB,FC Nantes
+56.32,Jakob Bookjans,midfield,SUB,1. FC Köln
+59.23,Michael Weier,midfield,SUB,Unión Deportiva Almería
+56.38,Lewis Richards,defender,SUB,Crystal Palace
+54.97,Alex Monis,defender,SUB,Villarreal CF
+56.79,Amir Ismaïl,midfield,SUB,Melbourne Victory
+57.33,Marc Leonard,midfield,CM,Real Betis Balompié
+56.81,Lequincio Zeefuik,goalkeeper,GK,Everton
+58.63,Nahuel Noll,forward,ST,Everton
+59.55,Peter Urminsky,defender,CB,PAOK
+53.76,Jerry Lalrinzuala,defender,SUB,Stade Brestois 29
+58.13,Ryan Howley,midfield,RM,Dinamo Zagreb
+57.26,Luka Pršo,defender,CB,Borussia Mönchengladbach
+56.5,Anton Mlinaric,forward,ST,Elche CF
+56.74,Leon King,forward,RF,AS Monaco
+56.08,Carlo Armiento,defender,SUB,Borussia Mönchengladbach
+56.47,Gun Park,defender,RWB,Real Madrid CF
+56.45,Hormipam Ruivah,forward,ST,AS Monaco
+60.03,Paul Bourdelle,defender,SUB,Borussia Mönchengladbach
+57.47,Jack Wells-Morrison,forward,RF,FC Nantes
+57.16,Joel Sundström,forward,SUB,1. FC Köln
+57.54,Antonio Yakoub,defender,RB,Unión Deportiva Almería
+54.27,Shenyuan Li,midfield,LM,Crystal Palace
+54.65,Chanka Zimba,defender,RES,Villarreal CF
+54.93,Yaimar Medina,forward,ST,Melbourne Victory
+56.52,Koray Dag,forward,SUB,Real Betis Balompié
+58.65,Giuseppe Marcianò,forward,SUB,Borussia Mönchengladbach
+58.67,Plamedi Buni Jorge,forward,ST,Villarreal CF
+58.95,Daniel Barden,forward,RES,Ajax
+57.2,Aodh Dervin,midfield,CM,U.C. Sampdoria
+55.35,Gilbert Fuentes,forward,ST,AC Monza
+55.54,Adam Foley,forward,ST,RC Celta de Vigo
+57.78,Vishal Kaith,midfield,CM,Flamengo
+58.22,Lukas Jensen,defender,CB,VfL Wolfsburg
+56.56,Faisal Abo Bakr,defender,CB,Internacional
+54.85,Gustav Grubbe,defender,SUB,Flamengo
+57.18,Dayler Quintela,defender,SUB,Internacional
+53.51,Stephen Ewange,forward,ST,Flamengo
+58.8,Blondy Nna Noukeu,midfield,CDM,RB Bragantino
+55.68,Tuncer Duhan Aksu,defender,SUB,São Paulo
+54.48,John Ross Wilson,forward,ST,Flamengo
+55.92,Florian Hoxha,defender,SUB,OGC Nice
+58.88,Sam Karssies,defender,RB,Aston Villa
+60.27,Johannes Schenk,defender,SUB,Borussia Mönchengladbach
+56.34,Rosaire Longelo,midfield,CM,Al Ittihad
+57.36,Mattia Motolese,midfield,SUB,Gil Vicente FC
+56.04,Douglas James-Taylor,forward,SUB,Hellas Verona
+54.37,Talha Ülvan,defender,SUB,Fulham
+55.95,Ossama Ashley,forward,SUB,RC Strasbourg Alsace
+57.2,Patrik Mercado,midfield,CM,Real Betis Balompié
+57.86,Harvey Saunders,defender,SUB,Napoli
+55.77,Filip Zawadzki,defender,CB,Granada CF
+56.84,Josh Lillis,midfield,RM,Real Sociedad
+55.87,Barry Baggley,defender,CB,Beşiktaş JK
+58.44,Darko Gyabi,midfield,SUB,Nottingham Forest
+59.46,Nurullah Aslan,defender,CB,OGC Nice
+58.54,Tomás Romero Cejudo,defender,CB,RCD Espanyol de Barcelona
+58.32,Andrew Thomas,midfield,SUB,Fiorentina
+59.14,Joe Hilton,midfield,SUB,Bayer 04 Leverkusen
+58.18,Collins Sichenje,forward,ST,Villarreal CF
+56.63,Owen Bevan,defender,SUB,AS Monaco
+57.87,Ethan Bartlow,defender,RES,Tottenham Hotspur
+58.77,Oskar Fallenius,midfield,CM,Feyenoord
+54.36,Nathaniel Brown,forward,SUB,Real Valladolid CF
+54.98,Dayle Rooney,forward,ST,Eintracht Frankfurt
+56.98,Dario Marzino,defender,SUB,Athletic Club de Bilbao
+58.28,Colin McCabe,defender,CB,Wolverhampton Wanderers
+57.02,Romeo Giovannini,midfield,SUB,AFC Richmond
+56.25,Paul Doyle,forward,SUB,AFC Richmond
+58.53,Jahnoah Markelo,defender,CB,AC Milan
+55.98,Omar Al Suhaymi,forward,LF,AC Sparta Praha
+55.09,Abdulaziz Noor,forward,SUB,Arsenal
+56.92,José Alfredo Flores,defender,RB,PSV
+56.37,Charlie Brown,defender,RB,Sporting CP
+56.75,Morgan Boyes,forward,SUB,Real Valladolid CF
+58.93,Joachim Imbrechts,goalkeeper,GK,Hajduk Split
+59.46,Keith Cowan,defender,CB,Borussia Dortmund
+56.35,William Sandford,midfield,CAM,PSV
+57.11,Efe-Kaan Sihlaroglu,defender,SUB,RB Leipzig
+56.8,Marinos Tzionis,forward,SUB,FC Porto
+58.52,Bryan González,goalkeeper,GK,AS Monaco
+57.79,Mathis Bruns,defender,SUB,Bologna
+54.8,Óli Ómarsson,forward,ST,Leicester City
+56.62,Shaqai Forde,midfield,CDM,Feyenoord
+57.85,Jung Ho Kim,defender,CB,Real Sociedad
+54.73,Ji Han Lee,midfield,CM,Tottenham Hotspur
+55.84,Aday Ercan,midfield,LM,Napoli
+57.5,Maissa Ndiaye,midfield,SUB,U.S. Sassuolo Calcio
+55.02,Mohammed Yasir,defender,LB,AC Monza
+57.58,Antoni Kozubal,forward,ST,FC Porto
+57.77,Nasser Djiga,defender,SUB,FC Barcelona
+56.57,Dan Carr,forward,ST,VfB Stuttgart
+56.65,José Carrillo Mancilla,forward,SUB,Atalanta
+55.08,Tom Clayton,defender,RB,Girona FC
+56.53,Oliver Denham,defender,CB,Levante Unión Deportiva
+56.95,Keyendrah Simmonds,midfield,CAM,VfL Wolfsburg
+59.04,Taye Ashby-Hammond,midfield,RM,Brighton & Hove Albion
+59.44,Robin Roefs,forward,SUB,Atalanta
+55.62,Juan José Giménez,forward,SUB,Dynamo Kyiv
+56.73,Jaber Asiri,midfield,CM,Southampton
+58.73,Prabhsukhan Gill,midfield,CAM,Montpellier Hérault SC
+59.25,Jaime Durán Jiménez,midfield,SUB,Fenerbahçe SK
+57.03,Kipp Keller,defender,SUB,Valencia CF
+57.33,Milan Smit,forward,SUB,Clube Atlético Mineiro
+57.98,Williams Tortolero,forward,LW,Al Hilal
+60.26,Song Hoon Shin,forward,SUB,Arsenal
+56.36,Hannes Küng,defender,LB,RB Leipzig
+59.24,Otto Lindell,midfield,CM,Sevilla FC
+56.61,Bartłomiej Mruk,defender,SUB,Brighton & Hove Albion
+58.18,Musab Al Juwair,midfield,RM,AC Milan
+57.66,Darragh Nugent,defender,CB,AS Monaco
+55.43,Ju Yeop Kim,midfield,CM,Free agent
+54.86,Jake Hollman,midfield,CM,Hertha BSC
+56.7,Zack Farnsworth,midfield,SUB,Palmeiras
+56.29,Michael Ruhs,midfield,SUB,1. FSV Mainz 05
+58.49,Zhongliu Chen,midfield,CDM,Palmeiras
+56.36,Machop Chol,forward,ST,Palmeiras
+60.43,Jesús Fernández Alonso,forward,SUB,Fluminense
+54.36,Jan Schröder,defender,SUB,Flamengo
+56.6,Ben Reveno,midfield,CM,Clube Atlético Mineiro
+55.09,Hassan Ghazwani,defender,CB,Palmeiras
+56.85,Franz Roggow,midfield,CM,Santos
+54.24,Fabricio Vidal,forward,ST,Palmeiras
+58.5,Jason Law,defender,SUB,Internacional
+55.24,Dylan Duffy,goalkeeper,GK,AS Monaco
+54.31,James Maxwell,forward,-,Trabzonspor
+54.25,Yi Luo,midfield,CM,AEK Athens
+54.7,Samuele Righetti,defender,SUB,Atalanta
+58.51,Tom Hendriks,forward,RW,Trabzonspor
+56.15,Will Evans,defender,LWB,Beşiktaş JK
+56.53,Seong Ung Maeng,forward,ST,RC Strasbourg Alsace
+57.41,Shane Farrell,goalkeeper,GK,Nashville SC
+56.88,Sebastian Bergier,midfield,CM,Newcastle United
+58.48,Luca Bendel,midfield,CDM,Al Hilal
+55.06,Ethan Ingram,defender,RB,Fulham
+56.86,Joshua Feeney,midfield,CAM,SC Braga
+55.98,Oliver Kamdem,goalkeeper,GK,West Ham United
+54.87,Przemysław Maj,forward,ST,Borussia Dortmund
+57.47,Sam Long,defender,LB,Wolverhampton Wanderers
+56.22,Jamal Baptiste,defender,CB,Fiorentina
+58.97,Jonathan Corozo,goalkeeper,GK,Royal Antwerp FC
+54.65,Ryan Jones,defender,SUB,RC Strasbourg Alsace
+56.65,Marco Rus,defender,RB,Fenerbahçe SK
+56.04,Nana Boateng,defender,RB,RB Leipzig
+57.9,Ezequiel Emanuele,midfield,LM,Leicester City
+56.09,Max Balard,midfield,SUB,Montpellier Hérault SC
+53.45,Mohammed Rafique,midfield,RM,Everton
+56.37,Paulo Rodríguez,forward,LW,PSV
+56.56,Emrecan Uzunhan,defender,CB,Leeds United
+54.9,Bartłomiej Ciepiela,midfield,CDM,Crystal Palace
+54.34,Fin Back,defender,LB,RB Bragantino
+58.82,Lucas Zahaczewski,forward,ST,Clube Atlético Mineiro
+56.3,Jay Barnett,goalkeeper,GK,1. FC Köln
+58.34,Emanuel Dat,midfield,CDM,Atalanta
+57.54,Nathanael Kukanda,midfield,SUB,Celtic
+57.97,Ben Worman,midfield,LM,SL Benfica
+57.71,Sam Sargeant,midfield,SUB,FC Midtjylland
+54.48,Abdullah Al Samtai,defender,RB,Sport-Club Freiburg
+56.3,Anton Gaaei,goalkeeper,GK,Girona FC
+58.01,Abdullah Al Samtai,goalkeeper,GK,Free agent
+59.17,Anton Gaaei,goalkeeper,CB,SC Braga
